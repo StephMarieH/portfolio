@@ -4,7 +4,7 @@ LINE = "-" * 79
 hello = "Welcome to Team Allocator!"
 
 print(f"{LINE}\n{hello}\n{LINE}")
-players = ["Steph", "James", "Tonya", "Jonnie", "Lorenzo", "Rubi"] # need to make this question ask for a list
+players = ["Steph", "James", "Tonya", "Jonnie", "Lorenzo", "Rubi"]
 
 while True:
     random.shuffle(players)

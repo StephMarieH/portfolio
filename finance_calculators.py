@@ -41,4 +41,3 @@ elif finance_type == "bond":
 # Print if words "bond" or "investment" not inputted.
 else:
     print("error: please try again typing in either Investment or Bond")
-
